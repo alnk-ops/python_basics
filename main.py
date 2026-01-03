@@ -99,6 +99,14 @@ def greets(x):
     print("Hello,Welcome to python",x)
 greets(100)
 
+# for in loop
+fruits = ["apple", "banana", "cherry"]
+for fruit in fruits:
+    print(fruit)
+# for each loop
+for i in range(5):
+    print(i)
+
 
 
     
